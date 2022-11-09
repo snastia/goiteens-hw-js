@@ -115,17 +115,21 @@ margin-left: auto;
  .icon-email{
     width: 15px;
     height: 12px;
+    position: absolute;
  }
  .icon-tel{
     width: 13px;
     height: 13px;
+    position: absolute;
  }
  .icon-human{
     height: 12px;
     width: 12px;
-    position: relative;
+    position: absolute;
  }
  .modal-button{
+    cursor: pointer;
+
     display: inline-flex;
     padding: 10px 57px;
     border-radius: 4px;
