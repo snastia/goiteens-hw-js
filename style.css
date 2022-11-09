@@ -112,6 +112,19 @@ margin-left: auto;
     color: var(--secondary-text-color);
 }
  /* форма модального вікна */
+ .icon-email{
+    width: 15px;
+    height: 12px;
+ }
+ .icon-tel{
+    width: 13px;
+    height: 13px;
+ }
+ .icon-human{
+    height: 12px;
+    width: 12px;
+    position: relative;
+ }
  .modal-button{
     display: inline-flex;
     padding: 10px 57px;
